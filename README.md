@@ -1,50 +1,43 @@
-<!---
-Zameel-Byte/Zameel-Byte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
 ![Visitor Count](https://profile-counter.glitch.me/Zameel-Byte/count.svg)
 <div style="text-align: right">
 
 
-# Hi there, I'm Zameel <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+# Hi there, I'm Karthik Raj Palavalasa <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=A+Passionate+Learner!;Open+Source+Contributor;I+Like+To+Tinker">
 </p>
 
-<p align="center"><img src="https://img.shields.io/github/followers/Zameel-Byte.svg?style=social&label=Follow&maxAge=2592000"></p>
+<p align="center"><img src="https://img.shields.io/github/followers/karthikpalavalasa.svg?style=social&label=Follow&maxAge=2592000"></p>
 
 
 ----
 ## Connect with me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 <br>
-<a href="https://twitter.com/ZameelAliMoham3"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/zameel-ali-mohammed-055a86204/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.reddit.com/user/Zameelalimohammed"><img src="	https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
-<a href="mailto:zameelalimohammed282003@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://discord.gg/MQdZjy68tb"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+
+<a href="https://www.linkedin.com/in/karthik-raj-palavalasa-b60378289/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:karthikrajpalavalasa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
 
 ----
 
 ## Trophy 🏆  
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zameel-byte" alt="zameel-byte" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karthikpalavalasa" alt="karthikpalavalasa" /></a> </p>
 
-- 🔭 I’m currently working on [FRIDAY](https://github.com/just-innovative-bro/F.R.I.D.A.Y)
+- 🌱 I’m currently learning **Azure Devops**
 
-- 🌱 I’m currently learning **Embedded C**
 
-- 👯 I’m looking to collaborate on [Home Automation](https://github.com/just-innovative-bro/home-automation-based-on-ai)
 
-- 👨‍💻 All of my projects are available at [https://zameel.me/](https://zameel.me/)
+- 👨‍💻 All of my projects are available at [https://karthikpalavalasa/](https://zameel.me/)
 
-- 📝 I regularly write articles on [https://arduino-for-pec.blogspot.com/](https://arduino-for-pec.blogspot.com/)
 
-- 💬 Ask me about **IoT, Arduino, Python**
+- 💬 Ask me about **Java, Azure Cloud, Spring Boot**
 
-- 📫 How to reach me **zameelalimohammed282003@gmail.com**
+- 📫 How to reach me **karthikrajpalavalasa@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://github.com/Zameel-Byte/online-resume/blob/master/Zameel%20Ali%20Mohammed's%20Resume.pdf)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/13q03KPKiwE-wDA6cRodmhUjdL5iZBip3/view?usp=sharing)
 
 
 
