@@ -3,7 +3,7 @@
 <div style="text-align: right">
 
 
-# Hi there, I'm Karthik Raj Palavalasa <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+# Hi there, I'm Palavalasa Karthik Raj <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <p align="center">
@@ -17,7 +17,7 @@
 ## Connect with me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 <br>
 
-<a href="https://www.linkedin.com/in/karthik-raj-palavalasa-b60378289/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/palavalasa-karthik-raj-b60378289/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:karthikrajpalavalasa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 
