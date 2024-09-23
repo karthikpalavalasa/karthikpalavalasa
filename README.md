@@ -28,16 +28,12 @@
 
 - 🌱 I’m currently learning **Azure Devops**
 
-
-
-- 👨‍💻 All of my projects are available at [https://karthikpalavalasa/](https://zameel.me/)
-
-
-- 💬 Ask me about **Java, Azure Cloud, Spring Boot**
+- 💬 Ask me about **Azure Cloud, Azure DevOps, Jenkins, Docker, Kubernetes,  Prometheus, SonarQube, Terraform,
+Ansible,  Java and Spring Boot**
 
 - 📫 How to reach me **karthikrajpalavalasa@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/13q03KPKiwE-wDA6cRodmhUjdL5iZBip3/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1D-vtGNZ0odVwSfIQIGFYOsAeCKiGkd8S/view?usp=sharing)
 
 
 
