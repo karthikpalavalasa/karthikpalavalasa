@@ -1,5 +1,5 @@
 
-![Visitor Count](https://profile-counter.glitch.me/arthikpalavalasa/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/karthikpalavalasa/count.svg)
 <div style="text-align: right">
 
 
