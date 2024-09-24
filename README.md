@@ -4,10 +4,11 @@
 
 
 # Hi there, I'm Palavalasa Karthik Raj <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWpiNGd4czE5djl1NGdwNGhza2xzNnN0MmFvYWlzbGNiMnV0dGpsZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="230">
+
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=A+Passionate+Learner!;Open+Source+Contributor;I+Like+To+Tinker">
+<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=A+Passionate+Learner!;DevOps+and+Azure+cloud+Enthusiast;I+Like+To+Tinker">
 </p>
 
 <p align="center"><img src="https://img.shields.io/github/followers/karthikpalavalasa.svg?style=social&label=Follow&maxAge=2592000"></p>
