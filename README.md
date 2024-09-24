@@ -8,7 +8,7 @@
 
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=A+Passionate+Learner!;DevOps+and+Azure+cloud+Enthusiast;I+Like+To+Tinker">
+<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=A+Passionate+Learner!;Azure+cloud+Enthusiast;I+Like+To+Tinker">
 </p>
 
 <p align="center"><img src="https://img.shields.io/github/followers/karthikpalavalasa.svg?style=social&label=Follow&maxAge=2592000"></p>
